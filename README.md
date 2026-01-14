@@ -1,1 +1,1 @@
-# power-bi-flights-project
+Maven Analytics Power BI Flights Project
